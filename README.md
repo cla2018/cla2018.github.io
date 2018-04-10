@@ -9,7 +9,7 @@
  - Ort/Übung: CIP Pool (Sibirien/Gobi)
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
- - Tutoren: Daniel Weber, Dominik Braun, Simon Preißner
+ - Tutoren: Daniel Weber, Felip Guimerà Cuevas, Ziad Elsayes 
  
  
 Sie erreichen den Dozenten und die Tutoren unter:

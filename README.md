@@ -1,6 +1,6 @@
 # Computerlinguistische Anwendungen
 ### Anwendung maschineller Lernverfahren in Python
-### Wintersemester 2017 / 2018
+### Sommersemester 2018
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
  - Zeit/Vorlesung: Mi 14:00-17-00 (c.t.)
@@ -27,6 +27,7 @@ Anmeldung zur Vorlesung:
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
+| - |  |  | [PyCharm Intro (optional, jedoch vorteilhaft zur Übungsbearbeitung)](pycharm.pdf){:target="_blank"} |
 | 11.4. | Überblick; Perzeptron; Wiederholung |  |  |
 | 18.4. | Naive Bayes; Multiclass Classification |  |  |
 | 25.4. | Numpy; Scikit-Learn |  |  |

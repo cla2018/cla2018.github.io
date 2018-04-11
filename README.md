@@ -28,7 +28,7 @@ Anmeldung zur Vorlesung:
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | - |  |  | [PyCharm Intro (optional, jedoch vorteilhaft zur Übungsbearbeitung)](pycharm.pdf){:target="_blank"} |
-| 11.4. | Überblick; Perzeptron; Wiederholung |  |  |
+| 11.4. | [Course Overview](01_overview.pdf){:target="_blank"}; [Machine Learning Basics](01_machine_learning.pdf){:target="_blank"}; [Perzeptron](01_perceptron.pdf){:target="_blank"} |  |  |
 | 18.4. | Naive Bayes; Multiclass Classification |  |  |
 | 25.4. | Numpy; Scikit-Learn |  |  |
 | 2.5. | MaxEnt Klassifikator; SVM; Wort-Repräsentationen 1  |  |  |

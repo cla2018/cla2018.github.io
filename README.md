@@ -30,7 +30,7 @@ Anmeldung zur Vorlesung:
 | - |  |  | [PyCharm Intro (optional, jedoch vorteilhaft zur Übungsbearbeitung)](pycharm.pdf){:target="_blank"} |
 | 11.4. | [Course Overview](01_overview.pdf){:target="_blank"}; [Machine Learning Basics](01_machine_learning.pdf){:target="_blank"}; [Perzeptron](01_perceptron_short.pdf){:target="_blank"} |  | Literatur: Hal Daume [(pdf)](http://www.ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf){:target="_blank"} |
 | 12.4. |  | [Homework 1](hw01_perceptron.pdf){:target="_blank"} | [enron.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/enron.tgz){:target="_blank"} |
-| 18.4. | Naive Bayes; Multiclass Classification |  |  |
+| 18.4. | [Naive Bayes; Multiclass Classification](02_naive_bayes.pdf){:target="_blank"} |  |  |
 | 25.4. | Numpy; Scikit-Learn |  |  |
 | 2.5. | MaxEnt Klassifikator; SVM; Wort-Repräsentationen 1  |  |  |
 | 9.5. | Wort-Repräsentationen 2 |  |  |

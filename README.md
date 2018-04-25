@@ -32,7 +32,7 @@ Anmeldung zur Vorlesung:
 | 12.4. |  | [Homework 1](hw01_perceptron.pdf){:target="_blank"} **Updated Ex.9**| [enron.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/enron.tgz){:target="_blank"} |
 | 18.4. | [Naive Bayes; Multiclass Classification](02_naive_bayes.pdf){:target="_blank"} |  | Literatur: Jurafsky&Martin [(pdf)](https://web.stanford.edu/%7Ejurafsky/slp3/6.pdf){:target="_blank"} |
 | 19.4. |  | [Homework 2](hw02_naive_bayes.pdf){:target="_blank"} |  |
-| 25.4. | Numpy; Scikit-Learn |  |  |
+| 25.4. | [Praraphrases; Numpy; Scikit-Learn](paraphrases_scikit_numpy.pdf){:target="_blank"} |  |  |
 | 2.5. | MaxEnt Klassifikator; SVM; Wort-Repräsentationen 1  |  |  |
 | 9.5. | Wort-Repräsentationen 2 |  |  |
 | 16.5. | Implementierung von Wortähnlichkeit |  |  |

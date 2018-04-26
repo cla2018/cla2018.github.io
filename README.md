@@ -33,6 +33,7 @@ Anmeldung zur Vorlesung:
 | 18.4. | [Naive Bayes; Multiclass Classification](02_naive_bayes.pdf){:target="_blank"} |  | Literatur: Jurafsky&Martin [(pdf)](https://web.stanford.edu/%7Ejurafsky/slp3/6.pdf){:target="_blank"} |
 | 19.4. |  | [Homework 2](hw02_naive_bayes.pdf){:target="_blank"} |  |
 | 25.4. | [Praraphrases; Numpy; Scikit-Learn](paraphrases_scikit_numpy.pdf){:target="_blank"} |  |  |
+| 26.4. |  | [Homework 3](hw03_paraphrases.pdf){:target="_blank"} |  |
 | 2.5. | MaxEnt Klassifikator; SVM; Wort-Repräsentationen 1  |  |  |
 | 9.5. | Wort-Repräsentationen 2 |  |  |
 | 16.5. | Implementierung von Wortähnlichkeit |  |  |

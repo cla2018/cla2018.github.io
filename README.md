@@ -5,7 +5,7 @@
 
  - Zeit/Vorlesung: Mi 14:00-17-00 (c.t.)
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Übung: Do 14:00-16:00 (c.t.)
+ - Zeit/Übung: <span style="color:red">**Do 14:00 s.t. - 16:00 s.t. (s.t. = pünktlich)**</span>
  - Ort/Übung: CIP Pool (Sibirien/Gobi)
 
  - Dozenten: Benjamin Roth, Marina Sedinkina
@@ -23,7 +23,6 @@ Anmeldung zur Vorlesung:
  Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informationen](http://www.rz.ifi.lmu.de/Dienste/Gitlab.html){:target="_blank"}
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://goo.gl/forms/NqfDSS0jkEcgSQxJ3){:target="_blank"}
-
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|

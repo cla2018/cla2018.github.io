@@ -34,7 +34,7 @@ Anmeldung zur Vorlesung:
 | 19.4. |  | [Homework 2](hw02_naive_bayes.pdf){:target="_blank"} |  |
 | 25.4. | [Praraphrases; Numpy; Scikit-Learn](paraphrases_scikit_numpy.pdf){:target="_blank"} |  |  |
 | 26.4. |  | [Homework 3](hw03_paraphrases.pdf){:target="_blank"} | [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz){:target="_blank"} |
-| 2.5. | [MaxEnt Klassifikator](scikit_classification.pdf){:target="_blank"}; [SVM](thang_vu_svm.pdf){:target="_blank"}; [Wort-Repräsentationen 1](embeddings_basics_schuetze.pdf){:target="_blank"} |  |  |
+| 2.5. | [MaxEnt Klassifikator](scikit_classification.pdf){:target="_blank"}; [SVM](thang_vu_svm.pdf){:target="_blank"}; [Wort-Repräsentationen 1](embeddings_basics_schuetze.pdf){:target="_blank"} |  | [Wikipedia word space](http://www.cis.uni-muenchen.de/schuetze/intro/tmp/){:target="_blank"} |
 | 9.5. | Wort-Repräsentationen 2 |  |  |
 | 16.5. | Implementierung von Wortähnlichkeit |  |  |
 | 23.5. | Skipgram (Word2Vec) |  |  |

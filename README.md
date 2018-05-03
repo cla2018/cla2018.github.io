@@ -46,4 +46,4 @@ Anmeldung zur Vorlesung:
 | 4.7. | Fragestunde |  |  |
 | 11.7. | Klausur |  |  |
 
-Zur Korrektur verwendete Unit-Tests: [hw01_perceptron.tar.gz](hw01){:target="_blank"}
+Zur Korrektur verwendete Unit-Tests: [hw01](hw01_perceptron.tar.gz){:target="_blank"}

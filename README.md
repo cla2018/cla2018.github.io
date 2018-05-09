@@ -35,7 +35,7 @@ Anmeldung zur Vorlesung:
 | 26.4. |  | [Homework 3](hw03_paraphrases.pdf){:target="_blank"} | [paraphrases.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/paraphrases.tgz){:target="_blank"} |
 | 2.5. | [MaxEnt Klassifikator](scikit_classification.pdf){:target="_blank"}; [SVM](thang_vu_svm.pdf){:target="_blank"} |  |  |
 | 3.5. |  | [Homework 4](hw04_sklearn_paraphrases.pdf){:target="_blank"} **Updated Ex.3**| |
-| 9.5. | [Wort-Repräsentationen 1](embeddings_basics_schuetze.pdf){:target="_blank"} |  | [Wikipedia word space](http://www.cis.uni-muenchen.de/schuetze/intro/tmp/){:target="_blank"}; [Tensorflow Projector](http://projector.tensorflow.org/){:target="_blank"} |
+| 9.5. | [Wort-Repräsentationen 1](wordspace.pdf){:target="_blank"} |  | [Wikipedia word space](http://www.cis.uni-muenchen.de/schuetze/intro/tmp/){:target="_blank"}; [Tensorflow Projector](http://projector.tensorflow.org/){:target="_blank"} |
 | 9.5. | Wg. Feiertag: Vorlesung bis 16:30, Übung: 17:00 (s.t.)-18:30 |  |  |
 | 16.5. | Implementierung von Wortähnlichkeit |  |  |
 | 23.5. | Skipgram (Word2Vec) |  |  |

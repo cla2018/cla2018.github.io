@@ -39,7 +39,7 @@ Anmeldung zur Vorlesung:
 | 9.5. | [Wort-Repräsentationen 1](wordspace.pdf){:target="_blank"} |  | [Wikipedia word space](http://www.cis.uni-muenchen.de/schuetze/intro/tmp/){:target="_blank"}; [Tensorflow Projector](http://projector.tensorflow.org/){:target="_blank"} |
 | 9.5. | Wg. Feiertag: Vorlesung bis 16:30, Übung: 17:00 (s.t.)-18:30 | [Homework 5](cooccurrences.pdf){:target="_blank"} |  |
 | 16.5. | [Word-Embeddings durch Matrix-Faktorisierung](embedmatrix.pdf){:target="_blank"}; [Implementierung](word_similarity.pdf){:target="_blank"} |  |  |
-| 17.5. |  | [Homework 6](hw06_word_similarity.pdf){:target="_blank"} | |
+| 17.5. |  | [Homework 6](hw06_word_similarity.pdf){:target="_blank"} | [Solution Code Snippet](cooc_func.nopy){:target="_blank"} |
 | 23.5. | Skipgram (Word2Vec) |  |  |
 | 30.5. | Fasttext; SGD; Visualisierung; Anwendung von Wortvektoren |  |  |
 | 6.6. | Neuronale Netzwerke 1 |  |  |

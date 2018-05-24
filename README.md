@@ -41,6 +41,7 @@ Anmeldung zur Vorlesung:
 | 16.5. | [Word-Embeddings durch Matrix-Faktorisierung](embedmatrix.pdf){:target="_blank"}; [Implementierung](word_similarity.pdf){:target="_blank"} |  |  |
 | 17.5. |  | [Homework 6](hw06_word_similarity.pdf){:target="_blank"} | [Solution Code Snippet](cooc_func.nopy){:target="_blank"} |
 | 23.5. | [Skipgram (Word2Vec)](embedgd.pdf){:target="_blank"}; [Implementierung](word2vec.pdf){:target="_blank"} |  |  |
+| 24.5. |  | [Homework 7](hw07_skipgram.pdf){:target="_blank"} |  |
 | 30.5. | Fasttext; SGD; Visualisierung; Anwendung von Wortvektoren |  |  |
 | 6.6. | Neuronale Netzwerke 1 |  |  |
 | 13.6. | Neuronale Netzwerke 2 |  |  |

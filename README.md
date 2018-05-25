@@ -8,7 +8,7 @@
  - Zeit/Übung: <span style="color:red">**Do 14:00 s.t. - 16:00 s.t. (s.t. = pünktlich)**</span>
  - Ort/Übung: CIP Pool (Sibirien/Gobi)
 
- - Dozenten: Benjamin Roth, Marina Sedinkina
+ - Dozenten: Benjamin Roth
  - Tutoren: Daniel Weber, Felip Guimerà Cuevas, Ziad Elsayes 
  
  

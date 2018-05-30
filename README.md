@@ -42,7 +42,7 @@ Anmeldung zur Vorlesung:
 | 17.5. |  | [Homework 6](hw06_word_similarity.pdf){:target="_blank"} | [Solution Code Snippet](cooc_func.nopy){:target="_blank"} |
 | 23.5. | [Skipgram (Word2Vec)](embedgd.pdf){:target="_blank"}; [Implementierung](word2vec.pdf){:target="_blank"} |  |  |
 | 24.5. |  | [Homework 7](hw07_skipgram.pdf){:target="_blank"} |  |
-| 30.5. | Fasttext; SGD; Visualisierung; Anwendung von Wortvektoren |  |  |
+| 30.5. | [Anwendung von Wortvektoren](word_vectors_applications.pdf){:target="_blank"} |  |  |
 | 30.5. | Wg. Feiertag: Vorlesung bis 16:30, Übung: 17:00 (s.t.)-18:30 | [Homework 8](hw08_entity_types.pdf){:target="_blank"} | [entities_types.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/entities_types.tgz){:target="_blank"} |
 | 6.6. | Neuronale Netzwerke 1 |  |  |
 | 13.6. | Neuronale Netzwerke 2 |  |  |

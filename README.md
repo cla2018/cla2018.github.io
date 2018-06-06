@@ -44,7 +44,7 @@ Anmeldung zur Vorlesung:
 | 24.5. |  | [Homework 7](hw07_skipgram.pdf){:target="_blank"} |  |
 | 30.5. | [Anwendung von Wortvektoren](word_vectors_applications.pdf){:target="_blank"} |  |  |
 | 30.5. | Wg. Feiertag: Vorlesung bis 16:30, Übung: 17:00 (s.t.)-18:30 | [Homework 8](hw08_entity_types.pdf){:target="_blank"} | [entities_types.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/entities_types.tgz){:target="_blank"} |
-| 6.6. | [RNNs; Keras](neural_networks.pdf){:target="_blank"}; [CNNs for images](cnn.pptx){:target="_blank"}; [CNNs for Text](convolution_pooling.pdf){:target="_blank"} |  |  |
+| 6.6. | [RNNs; Keras](neural_networks.pdf){:target="_blank"}; CNNs for images [(.pptx)](cnn.pptx){:target="_blank"} [(.pdf)](cnn.pdf){:target="_blank"}; [CNNs for Text](convolution_pooling.pdf){:target="_blank"} |  |  |
 | 13.6. | Neuronale Netzwerke 2 |  |  |
 | 20.6. | TBD |  |  |
 | 27.6. | TBD |  |  |

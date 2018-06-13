@@ -46,10 +46,12 @@ Anmeldung zur Vorlesung:
 | 30.5. | Wg. Feiertag: Vorlesung bis 16:30, Übung: 17:00 (s.t.)-18:30 | [Homework 8](hw08_entity_types.pdf){:target="_blank"} | [entities_types.tgz](http://www.cis.uni-muenchen.de/~beroth/cla/entities_types.tgz){:target="_blank"} |
 | 6.6. | [RNNs; Keras](neural_networks.pdf){:target="_blank"}; CNNs for images [(.pptx)](cnn.pptx){:target="_blank"} [(.pdf)](cnn.pdf){:target="_blank"}; [CNNs for Text](convolution_pooling.pdf){:target="_blank"} |  |  |
 | 7.6. |  | [Homework 9](hw09_neural_networks.pdf){:target="_blank"} |  |
-| 13.6. | [Relation Prediction Challenge](hw10_relation_prediction_challenge.pdf){:target="_blank"} |  | [relations.tgz](relations.tgz){:target="_blank"}  |
+| 13.6. | [Relation Prediction Challenge](hw10_relation_prediction_challenge.pdf){:target="_blank"} |  |   |
 | 20.6. | TBD |  |  |
 | 27.6. | TBD |  |  |
 | 4.7. | Fragestunde |  |  |
 | 11.7. | Klausur |  |  |
+
+[relations.tgz](relations.tgz){:target="_blank"}
 
 Zur Korrektur verwendete Unit-Tests: [hw01](hw01_perceptron.tar.gz){:target="_blank"}

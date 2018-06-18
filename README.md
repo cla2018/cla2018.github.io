@@ -54,4 +54,22 @@ Anmeldung zur Vorlesung:
 
 
 
-Zur Korrektur verwendete Unit-Tests: [hw01](hw01_perceptron.tar.gz){:target="_blank"}
+Zur Korrektur verwendete Unit-Tests:
+
+[hw01](hw01_perceptron.tar.gz){:target="_blank"}
+
+[hw02](hw02_naive_bayes_solution.7z){:target="_blank"}
+
+[hw03](hw03_paraphrases.7z){:target="_blank"}
+
+[hw04](hw04_sklearn_paraphrases.7z){:target="_blank"}
+
+[hw05](hw05_cooccurrence.7z){:target="_blank"}
+
+[hw06](hw06_word_similarity.7z){:target="_blank"}
+
+[hw07](hw07_skipgram_solution.7z){:target="_blank"}
+
+[hw08](hw08_entity_types.7z){:target="_blank"}
+
+[hw09](hw09_neural_networks.7z){:target="_blank"}

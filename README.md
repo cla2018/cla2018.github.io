@@ -47,7 +47,7 @@ Anmeldung zur Vorlesung:
 | 6.6. | [RNNs; Keras](neural_networks.pdf){:target="_blank"}; CNNs for images [(.pptx)](cnn.pptx){:target="_blank"} [(.pdf)](cnn.pdf){:target="_blank"}; [CNNs for Text](convolution_pooling.pdf){:target="_blank"} |  |  |
 | 7.6. |  | [Homework 9](hw09_neural_networks.pdf){:target="_blank"} |  |
 | 13.6. | [Relation Prediction Challenge](hw10_relation_prediction_challenge.pdf){:target="_blank"} |  | [relations.tgz](relations.tgz){:target="_blank"}  |
-| 20.6. | TBD |  |  |
+| 20.6. | Deep Learning for NLP; Firmenvortrag MunichRe |  |  |
 | 27.6. | TBD |  |  |
 | 4.7. | Fragestunde |  |  |
 | 11.7. | Klausur |  |  |

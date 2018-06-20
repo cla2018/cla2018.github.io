@@ -20,7 +20,7 @@ Anmeldung zur Vorlesung:
  - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
  - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://goo.gl/forms/xt5xpQzjRWZGKeU42){:target="_blank"}
  
- Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informationen](http://www.rz.ifi.lmu.de/Dienste/Gitlab.html){:target="_blank"}
+ Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html){:target="_blank"}
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://goo.gl/forms/NqfDSS0jkEcgSQxJ3){:target="_blank"}
 

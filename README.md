@@ -48,7 +48,7 @@ Anmeldung zur Vorlesung:
 | 7.6. |  | [Homework 9](hw09_neural_networks.pdf){:target="_blank"} |  |
 | 13.6. | [Relation Prediction Challenge](hw10_relation_prediction_challenge.pdf){:target="_blank"} |  | [relations.tgz](relations.tgz){:target="_blank"}  |
 | 20.6. | Deep Learning for NLP; Firmenvortrag MunichRe |  |  |
-| 27.6. | Kurzvorträge Projekt: <span style="color:red">**1 Folie Pro Team-Mitglied, jedes Mitglied soll z.B. eine Sache beschreiben, die Sie versucht haben, und was der Effekt davon war. Senden Sie die Folien bitte bis 12:00 an cla2018@... **</span>|  |  |
+| 27.6. | Kurzvorträge Projekt: <span style="color:red">**1 Folie Pro Team-Mitglied, jedes Mitglied soll z.B. einen Ansatz beschreiben, die Sie versucht haben, und was der Effekt davon war. Senden Sie die Folien bitte bis 12:00 an cla2018@...**</span>|  |  |
 | 4.7. | Fragestunde |  |  |
 | 11.7. | Klausur |  |  |
 

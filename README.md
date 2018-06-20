@@ -47,7 +47,7 @@ Anmeldung zur Vorlesung:
 | 6.6. | [RNNs; Keras](neural_networks.pdf){:target="_blank"}; CNNs for images [(.pptx)](cnn.pptx){:target="_blank"} [(.pdf)](cnn.pdf){:target="_blank"}; [CNNs for Text](convolution_pooling.pdf){:target="_blank"} |  |  |
 | 7.6. |  | [Homework 9](hw09_neural_networks.pdf){:target="_blank"} |  |
 | 13.6. | [Relation Prediction Challenge](hw10_relation_prediction_challenge.pdf){:target="_blank"} |  | [relations.tgz](relations.tgz){:target="_blank"}  |
-| 20.6. | Deep Learning for NLP; Firmenvortrag MunichRe |  |  |
+| 20.6. | [Deep Learning for NLP](dl4nlp_roth.pdf){:target="_blank"}; Firmenvortrag MunichRe |  |  |
 | 27.6. | Kurzvorträge Projekt: <span style="color:red">**1 Folie Pro Team-Mitglied, jedes Mitglied soll z.B. einen Ansatz beschreiben, die Sie versucht haben, und was der Effekt davon war. Senden Sie die Folien (mit Namen) bitte bis 12:00 an cla2018@...**</span>|  |  |
 | 4.7. | Fragestunde |  |  |
 | 11.7. | Klausur |  |  |

@@ -3,14 +3,6 @@
 ### Sommersemester 2018
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
- - Zeit/Vorlesung: Mi 14:00-17-00 (c.t.)
- - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
- - Zeit/Übung: <span style="color:red">**Do 14:00 s.t. - 16:00 s.t. (s.t. = pünktlich)**</span>
- - Ort/Übung: CIP Pool (Sibirien/Gobi)
-
- - Dozenten: Benjamin Roth
- - Tutoren: Daniel Weber, Felip Guimerà Cuevas, Ziad Elsayes 
-
 <span style="color:red">**Die Klausur findet am Mittwoch, den 11.7.2018 um 14:00 statt und dauert 90 Minuten**</span>
 - **Raum: Geschw.-Scholl-Pl. 1 (B) - B 106** [(Plan)](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0000/map?room=001101204_){:target="_blank"}
 - **Es sind keine Hilfsmittel zugelassen.**
@@ -36,6 +28,17 @@ Anmeldung zur Vorlesung:
  Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html){:target="_blank"}
 
 Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://goo.gl/forms/NqfDSS0jkEcgSQxJ3){:target="_blank"}
+
+ - Zeit/Vorlesung: Mi 14:00-17-00 (c.t.)
+ - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67
+ - Zeit/Übung: <span style="color:red">**Do 14:00 s.t. - 16:00 s.t. (s.t. = pünktlich)**</span>
+ - Ort/Übung: CIP Pool (Sibirien/Gobi)
+
+ - Dozenten: Benjamin Roth
+ - Tutoren: Daniel Weber, Felip Guimerà Cuevas, Ziad Elsayes 
+
+
+
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|

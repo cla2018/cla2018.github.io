@@ -65,6 +65,7 @@ Anmeldung zur Vorlesung:
 | 13.6. | [Relation Prediction Challenge](hw10_relation_prediction_challenge.pdf){:target="_blank"} ([leaderboard](leaderboard){:target="_blank"})|  | [relations.tgz](relations.tgz){:target="_blank"}  |
 | 20.6. | [Deep Learning for NLP](dl4nlp_roth.pdf){:target="_blank"}; Firmenvortrag MunichRe |  |  |
 | 27.6. | Kurzvorträge Projekt: <span style="color:red">**1 Folie Pro Team-Mitglied, jedes Mitglied soll z.B. einen Ansatz beschreiben, den Sie versucht haben, und was der Effekt davon war. Senden Sie die Folien (mit Namen) bitte bis 12:00 an cla2018@...**</span>|  | [Probeklausur](probe_klausur.pdf){:target="_blank"} |
+| 28.6. | Fragestunde mit den Tutoren (CIP-Pool Sibirien/Gobi) |  |  |
 | 4.7. | Besprechung der Probeklausur <span style="color:red">**Wichtig: Bitte beabeiten Sie die Probeklausur zuhause, und bringen Sie Ihre Lösungen mit, damit wir diese zusammen besprechen können.**</span> |  |  |
 | 5.7. | Fragestunde **Raum: L155** |  |  |
 | 11.7. | Klausur |  |  |

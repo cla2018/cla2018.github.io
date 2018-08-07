@@ -3,6 +3,9 @@
 ### Sommersemester 2018
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
+[Ergebnisse der Klausur](ergebnisse_klausur) vom 11.7.2018 (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind)
+
+
 <span style="color:red">**Die Klausur findet am Mittwoch, den 11.7.2018 um 14:00 statt und dauert 90 Minuten**</span>
 - **Raum: Geschw.-Scholl-Pl. 1 (B) - B 106** [(Plan)](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0000/map?room=001101204_){:target="_blank"}
 - **Es sind keine Hilfsmittel zugelassen.**

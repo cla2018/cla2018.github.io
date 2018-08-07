@@ -5,20 +5,15 @@
 
 [Ergebnisse der Klausur](klausur_ergebnisse) vom 11.7.2018 (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind)
 
-
-<span style="color:red">**Die Klausur findet am Mittwoch, den 11.7.2018 um 14:00 statt und dauert 90 Minuten**</span>
-- **Raum: Geschw.-Scholl-Pl. 1 (B) - B 106** [(Plan)](https://www.uni-muenchen.de/raumfinder/index.html#/building/bw0000/map?room=001101204_){:target="_blank"}
+<span style="color:red">**Die Nachklausur findet am Samstag, den 20.10.2018 um 10:00 statt und dauert 90 Minuten**</span>
+- **Hörsaal BU101, Oettingenstr. 67**
 - **Es sind keine Hilfsmittel zugelassen.**
 - Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, **müssen** sich über das LSF anmelden
-- **nur Studenten mit Hauptfach Informatik** verwenden bitte das [Webformular](https://goo.gl/forms/n1gRiUZbp8QgR1sO2){:target="_blank"}, oder melden sich mit den folgenden Angaben bis 5.7.2018 per Email an (cla2018 [at] cis [dot] uni [minus] muenchen [dot] de):
-    - **Betreff:** Klausuranmeldung CLA
+- **nur Studenten mit Hauptfach Informatik** verwenden bitte das [Webformular](https://goo.gl/forms/2msyv9WeU3YOUsyy1){:target="_blank"}, oder melden sich mit den folgenden Angaben bis 5.10.2018 per Email an (cla2018 [at] cis [dot] uni [minus] muenchen [dot] de):
+    - **Betreff:** Nachklausuranmeldung CLA
     - **Name, Vorname**
     - **Matrikelnummer**
     - **Studienfach:** Informatik+Computerlinguistik (LMU) **oder** Informatik+Anwendungsfach (TUM)
-
-
-
-
  
 Sie erreichen den Dozenten und die Tutoren unter:
 

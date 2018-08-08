@@ -5,6 +5,8 @@
 
 [Ergebnisse der Klausur](klausur_ergebnisse) vom 11.7.2018 (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind)
 
+Klausureinsicht: 17.8.2018, 15:00, Raum C105
+
 <span style="color:red">**Die Nachklausur findet am Samstag, den 20.10.2018 um 10:00 statt und dauert 90 Minuten**</span>
 - **Hörsaal BU101, Oettingenstr. 67**
 - **Es sind keine Hilfsmittel zugelassen.**

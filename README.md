@@ -11,7 +11,7 @@ Klausureinsicht: 17.8.2018, 15:00, Raum C105
 - **Hörsaal BU101, Oettingenstr. 67**
 - **Es sind keine Hilfsmittel zugelassen.**
 - Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, **müssen** sich über das LSF anmelden
-- **nur Studenten mit Hauptfach Informatik** verwenden bitte das [Webformular](https://goo.gl/forms/2msyv9WeU3YOUsyy1){:target="_blank"}, oder melden sich mit den folgenden Angaben bis 5.10.2018 per Email an (cla2018 [at] cis [dot] uni [minus] muenchen [dot] de):
+- **nur Studenten mit Hauptfach Informatik** verwenden bitte das Webformular, oder melden sich mit den folgenden Angaben bis 5.10.2018 per Email an (cla2018 [at] cis [dot] uni [minus] muenchen [dot] de):
     - **Betreff:** Nachklausuranmeldung CLA
     - **Name, Vorname**
     - **Matrikelnummer**
@@ -23,11 +23,11 @@ cla2018 [at] cis [dot] uni [minus] muenchen [dot] de
 
 Anmeldung zur Vorlesung:
  - Studenten mit Computerlinguistik als Hauptfach, und nicht-Informatiker melden sich bitte über das LSF zur Vorlesung an.
- - Studenten mit Informatik als Hauptfach benutzen bitte das [Webformular](https://goo.gl/forms/xt5xpQzjRWZGKeU42){:target="_blank"}
+ - Studenten mit Informatik als Hauptfach benutzen bitte das Webformular
  
  Für die Übungen benötigen Sie einen GitLab Account des IFI:  [Mehr Informationen](https://www.rz.ifi.lmu.de/infos/gitlab_de.html){:target="_blank"}
 
-Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: [Webformular](https://goo.gl/forms/NqfDSS0jkEcgSQxJ3){:target="_blank"}
+Übungen werden in Teams aus 2 oder 3 Teilnehmern gebildet. Sie können ein Team hier anmelden: Webformular
 
  - Zeit/Vorlesung: Mi 14:00-17-00 (c.t.)
  - Ort/Vorlesung: Hörsaal L 155, Oettingenstr. 67

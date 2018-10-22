@@ -3,19 +3,9 @@
 ### Sommersemester 2018
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
-[Ergebnisse der Klausur](klausur_ergebnisse) vom 11.7.2018 (Für Studenten, die der Veröffentlichung zugestimmt haben. Alle anderen müssen warten, bis die Noten im Prüfungsamt eingetragen sind)
+[Ergebnisse der Nachklausur](nachklausur_ergebnisse) vom 20.10.2018.
 
-Klausureinsicht: 17.8.2018, 15:00, Raum C105
-
-<span style="color:red">**Die Nachklausur findet am Samstag, den 20.10.2018 um 10:00 statt und dauert 90 Minuten**</span>
-- **Hörsaal BU101, Oettingenstr. 67**
-- **Es sind keine Hilfsmittel zugelassen.**
-- Computerlinguisten, und Studenten mit Hauptfach das über LSF verwaltet wird, **müssen** sich über das LSF anmelden
-- **nur Studenten mit Hauptfach Informatik** verwenden bitte das Webformular, oder melden sich mit den folgenden Angaben bis 5.10.2018 per Email an (cla2018 [at] cis [dot] uni [minus] muenchen [dot] de):
-    - **Betreff:** Nachklausuranmeldung CLA
-    - **Name, Vorname**
-    - **Matrikelnummer**
-    - **Studienfach:** Informatik+Computerlinguistik (LMU) **oder** Informatik+Anwendungsfach (TUM)
+Klausureinsicht: 29.10.2018, 9:00, Raum C105
  
 Sie erreichen den Dozenten und die Tutoren unter:
 

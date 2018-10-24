@@ -3,7 +3,7 @@
 ### Sommersemester 2018
 ### Centrum für Informations- und Sprachverarbeitung, LMU München
 
-[Ergebnisse der Nachklausur](nachklausur_ergebnisse) vom 20.10.2018.
+[Ergebnisse der Nachklausur](nachklausur_ergebnisse) vom 20.10.2018 (für Studierende, die der Veröffentlichung zugestimmt haben - alle anderen müssen warten, bis die Noten an das Prüfungsamt übermittelt sind).
 
 Klausureinsicht: 29.10.2018, 9:00, Raum C105
  
